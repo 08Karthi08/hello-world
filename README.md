@@ -1,2 +1,19 @@
 # hello-world
-"Hello, World!" is a simple and iconic phrase often used in computer programming to demonstrate the basic functionality of a programming language or framework. It serves as a customary starting point for beginners and a familiar checkpoint for experienced programmers.
+## Personal Information
+
+- Name: Karthika
+- Occupation: Graduate Student
+- University: Iowa State University
+
+## About Me
+
+Hi, my name is Karthika, and I'm a grad student at ISU. I am passionate about studying and researching in the field of Artificial Intelligence (AI) ethics.
+
+## Interests
+
+My interests include:
+
+- AI Ethics
+- HCI
+- Data Privacy
+- Ethical Decision-Making
