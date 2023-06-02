@@ -17,6 +17,3 @@ My interests include:
 - HCI
 - Data Privacy
 - Ethical Decision-Making
-
-
-### CH very nice! I see you've practiced you own pull-requests!
